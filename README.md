@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Palak Burman 👋
 
-<!--
-**palak-burman/palak-burman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at IGNOU  
+💻 Learning Web Development & Programming  
+🌱 Currently improving my skills in HTML, CSS, JavaScript, and C. 
+🚀 Interested in Tech, Open Source, and Creative Projects  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML
+- CSS
+- C++
+- C
+- MS Excel
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Working On
+- Web Development Projects
+- Improving Communication Skills
+- Learning GitHub & Open Source
+
+## 🌟 Connect with Me
+- LinkedIn: linkedin.com/in/palak-burman-419222382
