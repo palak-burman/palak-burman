@@ -16,7 +16,7 @@
 <p>
 <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=orange"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
